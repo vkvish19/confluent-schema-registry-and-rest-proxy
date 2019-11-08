@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2320e529-b7df-4b48-ad00-139d88ddd1eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sv3ew1gJHSZkw62W4fsHYgfsbc" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/avro-examples/src/main/java/com/github/vkvish19/avro" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KafkaAvroProducerV1">
+    <configuration name="KafkaAvroConsumerV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vkvish19.avro.KafkaAvroConsumerV1" />
+      <module name="kafka-avro-v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vkvish19.avro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaAvroConsumerV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vkvish19.avro.KafkaAvroConsumerV2" />
+      <module name="kafka-avro-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vkvish19.avro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaAvroProducerV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vkvish19.avro.KafkaAvroProducerV1" />
+      <module name="kafka-avro-v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vkvish19.avro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaAvroProducerV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vkvish19.avro.KafkaAvroProducerV2" />
+      <module name="kafka-avro-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vkvish19.avro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchemaEvolutionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vkvish19.avro.evolution.SchemaEvolutionExamples" />
+      <module name="avro-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vkvish19.avro.evolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaAvroProducerV1" />
+        <item itemvalue="Application.KafkaAvroConsumerV2" />
+        <item itemvalue="Application.KafkaAvroProducerV2" />
+        <item itemvalue="Application.KafkaAvroConsumerV1" />
+        <item itemvalue="Application.SchemaEvolutionExamples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2320e529-b7df-4b48-ad00-139d88ddd1eb" name="Default Changelist" comment="" />
+      <created>1572430340299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572430340299</updated>
+    </task>
+    <servers />
+  </component>
+</project>

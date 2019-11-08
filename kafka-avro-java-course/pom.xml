@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <groupId>com.github.vkvish19.avro</groupId>
+    <artifactId>kafka-avro-java-course</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+    <modules>
+        <module>avro-examples</module>
+        <module>kafka-avro-v1</module>
+        <module>kafka-avro-v2</module>
+    </modules>
+
+    <properties>
+        <avro.version>1.8.2</avro.version>
+        <kafka-version>2.3.1</kafka-version>
+        <confluent.version>5.3.1</confluent.version>
+    </properties>
+    
+</project>
